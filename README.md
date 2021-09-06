@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**Okumu-Ian/Okumu-Ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center">  
+<h3>Howdie, Folks! 👋🤓<br><br>Welcome to my page, I am Ian Okumu<br>Seasoned Android Developer, ocassioned Web Application Developer <br>and<br>Statistics Enthusiast.</h3>
+  </div>
+  
+  <div align="center">
+ 
+  <img src="https://socialmediatech.net/wp-content/uploads/2020/12/android-n.png" height="350"/>
+  
+  </div>
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ -->
+  
+  <div align="center">
+  <br>
+  <br>
+  <h3>CHECK OUT WHAT I HAVE BEEN DOING: 🤪🤖🤪🤖🤪</h3>
+  <br>
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:.5%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Okumu-Ian&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat" style="margin-right:.5%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okumu-Ian&layout=compact" />
+</a>
+  
+  </div>
+<!---
+otsembo/otsembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
